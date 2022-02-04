@@ -6,4 +6,4 @@ _$ pkg update && pkg upgrade <br>
  $ pkg install git -y <br>
  $ git clone https://github.com/ThenuxGithub/TxBanner <br>
  $ cd TxBanner <br>
- $ bash TxB.sh <br>
+ $ bash TxB.sh <br>_
