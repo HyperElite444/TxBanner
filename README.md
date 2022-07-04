@@ -1,6 +1,6 @@
 # TxBanner
 
-### INSTALLATION
+### INSTALLATION [ TERMUX ]
 
 <ul>
 <li><i>pkg update && pkg upgrade</i></li><br>
